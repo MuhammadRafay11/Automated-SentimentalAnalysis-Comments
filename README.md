@@ -5,5 +5,6 @@ This repository contains the implementation of an end-to-end AI solution for the
 <br>
 
 ## Task1 : Web Scrapping
-**Objective**: Collect user comments from a publicly accessible source to gather at least 100 comments for analysis.
+**Implementation**: Collected user comments from a publicly accessible source(Youtube) to gather at least 100 comments for analysis using 'request' library and 'Beautifulsoup' along with Selenium to manage pagination and robusness better.
 
+## Task 2: NLP & Sentiment Classification 
